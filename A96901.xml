@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Soft answers unto hard censures: relating, I. To a book printed without licence. A full accompt given thereof. II. To my particular calling: 3 offences relating thereunto removed: and the dutie of visiting families and schooles is pressed upon magistrates and ministers, whose duty it is to visite there, enquiring how the governours and governed, do answer their relations, the one commanding, the other obeying in the Lord. III. To the offence given by a book called an Anti-apologie, which I have said, is a great offence to the church of God; and that they, who write as Mr. Edwards does, too many by two, have offended their lord and master, more than Moses did, when he said, ye rebels, for which unadvised speaking (yet the people were little better) though he would, he could not compound with his lord God almighty. ... / By Hezekiah Woodward.</title>
+            <author>Woodward, Ezekias, 1590-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96901</idno>
+            <idno type="STC">Wing W3504</idno>
+            <idno type="STC">Thomason E268_2</idno>
+            <idno type="STC">ESTC R212399</idno>
+            <idno type="EEBO-CITATION">99871022</idno>
+            <idno type="PROQUEST">99871022</idno>
+            <idno type="VID">123420</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96901)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123420)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E268[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Soft answers unto hard censures: relating, I. To a book printed without licence. A full accompt given thereof. II. To my particular calling: 3 offences relating thereunto removed: and the dutie of visiting families and schooles is pressed upon magistrates and ministers, whose duty it is to visite there, enquiring how the governours and governed, do answer their relations, the one commanding, the other obeying in the Lord. III. To the offence given by a book called an Anti-apologie, which I have said, is a great offence to the church of God; and that they, who write as Mr. Edwards does, too many by two, have offended their lord and master, more than Moses did, when he said, ye rebels, for which unadvised speaking (yet the people were little better) though he would, he could not compound with his lord God almighty. ... / By Hezekiah Woodward.</title>
+                  <author>Woodward, Ezekias, 1590-1675.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to order, for Iohn Hancock; at the entrance into Popes-head Alley, out of Cornhill.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 5th 1644"; the 5 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edwards, Thomas, 1599-1647. --  Antapologia.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123420:1" rendition="simple:additions"/>
+            <p>SOFT ANSWERS, Unto Hard Cenſures: RELATING,
+<list>
+                  <item>I. To a Book printed without Licence. A full Accompt given thereof.</item>
+                  <item>II. To my perticular calling: 3 Offences relating thereunto re<g ref="char:EOLhyphen"/>moved: And the dutie of viſiting <hi>Families</hi> and <hi>Schooles</hi> is preſſed upon Magiſtrates and Miniſters, whoſe Duty it is to viſite there, en<g ref="char:EOLhyphen"/>quiring how the <hi>Governours</hi> and <hi>Governed,</hi> do Anſwer their Rela<g ref="char:EOLhyphen"/>tions, the one commanding, the other obeying in the Lord.</item>
+                  <item>III. To the <hi>Offence given</hi> by a Book called an
+<hi>Anti-Apologie,</hi> which I have ſaid, is a great <hi>offence</hi> to the Church of God; And that they, who write as Mr. <hi>Edwards</hi> does, too many by two, have offended their <hi>Lord</hi> and Maſter, more than
+<hi>Moſes</hi> did, when he ſaid, <hi>ye Rebels,</hi> for which
+<hi>unadviſed</hi> ſpeaking (yet the people were little better) though he would, he could not compound with his Lord God Almighty.</item>
+                  <item>IV. And to the <hi>offence taken</hi> by my ſhort defence of the Apol: Nar<g ref="char:EOLhyphen"/>ration; Whether the offence is juſtly given, or unjuſtly taken, is hum<g ref="char:EOLhyphen"/>bly ſubmitted to better judgement, upon due conſideration of two <hi>ex<g ref="char:EOLhyphen"/>ceptions,</hi> all I ever heard made againſt it by diſcreet and ſober men.</item>
+               </list>
+            </p>
+            <q>
+               <p>Men and Brethren, hear ye my Defence which I make now unto you.</p>
+               <bibl>ACTS 22.1.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Opinioni ſe venditat qui filet.</hi>
+               </p>
+               <bibl>Verul.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Quamvis imbecilla frons magna conſcientia ſuſtentatur.</hi>
+               </p>
+               <bibl>Quint.</bibl>
+            </q>
+            <p>By HEZEKIAH WOODWARD.</p>
+            <p>Printed according to Order, for <hi>Iohn Hancock;</hi> at the entrance into Popes-head Alley, out of Cornhill. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:123420:2"/>
+            <pb n="1" facs="tcp:123420:2"/>
+            <head>SOFT ANSVVERS, Unto Hard Cenſures:</head>
+            <p>REader, many things are charged upon my ſcore, I ſhall account with thee faithfully in all; That thou maieſt underſtand matters well and throughout before thou takeſt upon thee to judge: And then alſo deal more tenderly with thy Neighbours good Name (a pretious thing, and it may be, his livelyhood) than thou doeſt with a Glaſſe of Chriſtall; and with his
+<hi>Meaning,</hi> be as tender as with the Apple of the eye. Ile make no Apologie for my words, I hope they ſhall not need any. I ſhall ſpeak in matters wherein no man ought to be <hi>ſilent.</hi> Indeed I have been diſſwading ſo long againſt ſtrife and contention amongſt Brethren, that it has almoſt fallen out to me, as to Gods Faithfull ſervant,
+<hi>Moſes,</hi> he diſſwaded an <hi>Iſraelite</hi> ſo heartily from ſmiting an <hi>Iſraelite,</hi> that the <hi>Iſraelite,</hi> who did the wrong, charged <hi>Moſes</hi> with Murthering thoughts towards him;
+<hi>Thinkeſt thou to kill me,</hi> ſaies he,
+<note place="margin">Exod.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> when indeed
+<hi>Moſes</hi> had no other thought but to <hi>Reforme</hi> him, to keep his hand and tongue from <hi>ſmiting.</hi> But to the Particulars of the Charge, Relating,</p>
+            <p n="1">I. To a Book printed without Licence, which the
+<hi>Wardens</hi> have met with, and dealt with it and me as they pleaſed; or rather, as they ſaid, their Dutie is, and warant in their hands to do. I confeſſe I took ſome offence at their Dealing, which they ſay, was not gi<g ref="char:EOLhyphen"/>ven. I have no diſpoſition, nor were it fitting to diſpute that. But
+<pb n="2" facs="tcp:123420:3"/>becauſe I took an offence, and, I thought, very juſtly, therefore will I be the more tender of offending them. Onely this I muſt minde them of here, That their Dealing with my Book and Me, layeth an Engagement upon them, As they love the Booke of God, and De<g ref="char:EOLhyphen"/>ſire their Soules may thrive and proſper thereby, rather than fill their purſe with gaine therefrom, To deal with other Bookes filled with blaſphemies from top to bottom; And with Doctrines contrary to the Minde and good Word of God: with known <hi>Malignants</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Peſts</hi> and <hi>Plagues</hi> in City and Countrey, To deal with them, and theſe as they Dealt with me, and my Book. It is their Duty ſo to do, and but according to the power in their hands; And now it is their engagement alſo, becauſe they have, in their zeal to the Cauſe, they ſay, and due execution of their office, dealt ſo with me; of whom I thinke, they judge ſo honourably (though they were pleaſed to queſtion me about a
+<hi>libellous paper</hi> againſt the Lords, which my ſoul abominates) That I would not for a world ſpeak againſt the <hi>Lord</hi> Chriſt: Nor willingly againſt any the meaneſt of His Servants. And ſo forbearing all other matters, which might fall-in here, I come to give an account of my Doings in the Book, and the Rea<g ref="char:EOLhyphen"/>ſons of my ſo doing: But firſt, I muſt make a plaine <hi>narrative</hi> of the buſineſſe clamored againſt; and that, which moved me to ſet upon the work, which was this. Obſerving an heavy and moſt grievious charge drawne-up againſt thoſe, I need not name, be<g ref="char:EOLhyphen"/>ing ſo well knowne unto us, for their known integrity and exac<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> walking according to the Truth of the Goſpel, obſerving I ſay ſuch a charge fixed upon the <hi>title page</hi> of a booke, that it might be in the fulleſt view of heaven and earth, ſo as he that runnes might read it; obſerving alſo the worth, Authority; and learning of the Author, a well furniſhed man every way, I beſtowed a few hours, in running over the book from the firſt page to the laſt, that I might tell my ſelfe how he makes good the charge. And this I have told the Reader already in its due place.
+<note n="*" place="margin">2. <hi>Sect.</hi>
+               </note> This remaines to tell him here, how my ſpirit was ſtirred at the ſight of this charge. And the Reaſons I had ſo to be ſtirred. All this I ſhall tell faithfully, as in the ears of God, the ſearcher of all hearts.</p>
+            <p n="1">1. That my ſoul could not bear the words of that charge. There<g ref="char:EOLhyphen"/>fore I had a motion ſtronger than I could withſtand, which rendred me reſtleſſe, till I had put my pen to paper, therewith to ſhew, ac<g ref="char:EOLhyphen"/>cording as I was inabled, the vanity (Ile give it but ſo light a name) of that ſo heavy a charge.</p>
+            <p n="2">
+               <pb n="3" facs="tcp:123420:3"/>2. My reaſons were many, the former, I will call for diſtinction ſake, Negative. Firſt, I did it not thereby to ſhew my ſelfe ſingular or to ſide with any party: I love both parties ſo well, that the Lord knowes, I know not, whom I love and honour moſt: And am con<g ref="char:EOLhyphen"/>fident, that if they be two now, in judgement, yet they are not two in affections (for ſo wiſe men ſhould not be) or if two at preſent, yet they will be all one anon. Amen.</p>
+            <p n="2">2. Not to tell the world that my ſoul goes out in the way of <hi>In<g ref="char:EOLhyphen"/>dependency,</hi> further, than I am perſwaded, The Doctour himſelfe would, upon ſound debate with his own heart, goe out with mee. However, I have ſpoken of it according to my ſcant meaſure of knowledge, as the
+<note n="*" place="margin">
+                  <hi>oor ur</hi> Pſa 18 28. Eſa. 10 17
+2 Sam. 21.17.</note> 
+               <hi>light of the world</hi> hath been pleaſed to lighten my candle.</p>
+            <p n="3">3. Not to thwart Authority, or the Dictates therefrom: Cer<g ref="char:EOLhyphen"/>tainly my ſoul abhors ſo to do. You will ſay,</p>
+            <p>
+               <hi>A.</hi> And yet I have done, what my ſoul abominated.</p>
+            <p>
+               <hi>B.</hi> If I grant that, it is no more but what my betters will grant, and have done before me; <hi>What I hate, that I doe, ſaid Saint Paul.</hi> But yet I cannot underſtand it ſo:</p>
+            <p>For firſt, I ſought for a Licence, but could not obtain it, though my manner is to yeeld up my papers to be corrected, as the Licen<g ref="char:EOLhyphen"/>ſer, in his better judgement ſhall think fitteſt. And indeed ſo an Au<g ref="char:EOLhyphen"/>thor ſhould do, for he is worſt able to judge of himſelf; and he may ſlip with his pen as ſoon as with his tongue, which the Licenſer, by adding or leaving out a word, may help, and reconcile the Authors words and his meaning. Therefore no man I think, is more willing to crave judgement and ſubmit unto it, then I am. And with this kinde of <hi>Licenſing,</hi> any ſpirit can well cloſe. But for a <hi>Licenſer</hi> to withdraw his hand, out of prejudice to that, he will not read; or becauſe it may not ſuit with his judgement, This gives an offence ſure, which ought not be given.</p>
+            <p>Secondly, I obſerved bookes paſſing abroad with
+<hi>Licence,</hi> which I thought were wanting to <hi>Truth</hi> in part; and to right <hi>Reaſon,</hi> more wanting; and to the Law of Charity wholly wanting, all through<g ref="char:EOLhyphen"/>out: Yet theſe have their <hi>Licence.</hi> I thought now, That ſith I cra<g ref="char:EOLhyphen"/>ved leave and could not have it; I might take leave, and the liberty to ſpeak the <hi>Truth,</hi> keeping the <hi>Dictates</hi> of Right Reaſon, up cloſe in deſire, to the Law and <hi>Rule</hi> of charity all along: certainly, ſo I did in deſire. But my performances, I know, all ſhort of my own minde, and cannot reach up to my rule: All good men will pardon<pb n="4" facs="tcp:123420:4"/>me here, Their Lord and Maſter will.</p>
+            <p>Thirdly, Not to caſt the leaſt ſcruple. much leſſe a ſtone of of<g ref="char:EOLhyphen"/>ence at the way is now beating out before us. I have ſaid in deed, That the way of Church Government (I would name no more) is an Holy way; And that I can diſcerne no other in it, but what ought to be, Holineſſe therein all along: And this Holineſſe, not ſo diſcernible in the other
+<hi>Way.</hi> But ſtill I have ſaid, I travelled with hope, That the waies we have unhappily differenced, by two names of Debate, will meete in one, and there ſhall bee one way; my endeavours are for it, ſo are my prayers, even ſo, Amen. And now, me thinks, I have in my hand that which advanceth my hope, for I am reading the Directory for worſhip to the Church in
+<hi>Scotland;</hi> (A thing I confeſſe I ſtumbled at, hearing it ſo much talked of amongſt us: But I ſtumbled at it, as a man in the darke, at that hee neither ſees nor knowes before him) I am reading of that book.
+<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>probe facitqui in alieno li<g ref="char:EOLhyphen"/>bro inge<g ref="char:EOLhyphen"/>nioſus eſt Mart. ad Lect.</note> And truly not to ſhew my ſelf curious therein, which I ſhould not be, this I muſt ſay. That they have ſpo<g ref="char:EOLhyphen"/>ken very well; and my ſoul can go out with it, perſwaded their en<g ref="char:EOLhyphen"/>deavour is to live up in their practiſe, according as they have ſpo<g ref="char:EOLhyphen"/>ken; And as their light comes in, ſo ſhall their commings in and go<g ref="char:EOLhyphen"/>ing forth be, before all their people: As the Lord ſhall be pleaſed to clear up the way of Worſhip before their eyes; they will (for there is no ſtanding ſtill in Gods way) hold it forth before all Congrega<g ref="char:EOLhyphen"/>tions.
+<gap reason="symbol" resp="#OXF" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> What we expect from the
+<hi>Aſſemblies</hi> here, I cannot tell, great things ſure, and ſure we ſhall have them according to expectation, if our ſinnes, our
+<hi>murmurings,</hi> and repinings, and (for want of faith) our <hi>making haſte,</hi> our great ſinne: And the ſinnes of ſome Miniſters alſo, which they know beſt, and we know too well, to be ſuch as may caſt an
+<hi>offence</hi> in the way may hinder, at leaſt, the faithfull en<g ref="char:EOLhyphen"/>deavours of the Beſt approved: And therefore are matters of deep humiliation, unto all before all the people: The ſins of Miniſters Aſ<g ref="char:EOLhyphen"/>ſembled now; Oh let their ſinnes be found-out, and greatly hum<g ref="char:EOLhyphen"/>bled let them be for all they have done; That the Righteous may have their hearts deſire, touching the way of worſhip before their God, which certainly they ſhall have, if ſinnes hinder not, theirs and ours, reaching higher and crying louder, than the prayers of all the Righteous in the World can cry in the eares of their God: And if ſo (but ſurely ſo it ſhall not be) and if matters anſwer not expecta<g ref="char:EOLhyphen"/>tion; yet I praiſe God as well as I can, I think (for I dare not be confident of my own heart) all within me doth praiſe His Holy
+<pb n="5" facs="tcp:123420:4"/>Name, for all that good the Lord hath done for His poor people, by the unwearied labours of His faithfull Servants; Abundantly recom<g ref="char:EOLhyphen"/>pencing all the expence of Spirits, Time, and Purſe. Though the expence were a thouſand times more than it is, And we ſhould live to ſee no more, yet abundantly ſufficient is that we have ſeen touching the <hi>purifying of Gods houſe;</hi> His <hi>worſhip</hi> and <hi>ſervices there:</hi> Now the Lord be praiſed for this, And all within us muſt bleſſe His Name, for giving gifts unto His ſervants; and hearts to lay-out themſeves and their gifts, To advance His Name, A Reformation, or <hi>way of worſhip,</hi> ſutable to the excellency of <hi>His Name, Power,</hi> and
+<hi>Godneſſe.</hi> I have been the larger here to clear my intentions, That nothing could ſtand ſo contrary to the purpoſe and tendency of my ſoule, than to diminiſh any thing from the beauty of that <hi>way,</hi> is now beating-out before us; or from the labour of love in thoſe, who lay-out themſelves in that worke. And theſe are the rea<g ref="char:EOLhyphen"/>ſons I call, for diſtinction ſake, <hi>Negative.</hi> The other you may call
+<hi>Affirmative,</hi> are theſe.</p>
+            <p n="1">1. That I might do as much for the Brethren, as I ſtand bound to do for my enemies Aſſe, <hi>his that hates me;</hi>
+               <note place="margin">Exodus 23.4.</note> to my power, I muſt helpe the Aſſe-up, and caſe him of his burden. I conceive, I have done no more now, I ſaw a mighty burden of Reproach caſt upon the Brethren; I have put to my hand to eaſe them of it.</p>
+            <p n="2">2 I conſidered, who they were, that were ſo extreamly laden with diſgraces. They are the precious and excellent of the world, which I ſpeak, making no compariſon with thoſe, whom I acknowlledge to bee pretious in Gods ſight, and therefore honourable in ours alſo: All of them the ſons of a King, and ſervants of the High God. Theſe are the men ſo reproached.</p>
+            <p n="3">3 And that the Goſpell might ſuffer no dammage, finde no ſtop in their mouthes, who are (I would detract from none, giving theſe their due) eminently gracious that way, and able above many to carry it forth, and to ſpeak it from their hearts, to the hearts of all that hear them. Indeed I have more then a jealouſie. That the way men have taken now a dayes (againſt their wils I hope and be<g ref="char:EOLhyphen"/>ſides their intentions) is the readreſt way, that can bee taken to de<g ref="char:EOLhyphen"/>ſtroy the Goſpell, (what man can do) and to take-off from the wor<g ref="char:EOLhyphen"/>king of it in the hearts of the people, when they lay ſuch cart-loads of diſgrace upon the publiſhers thereof, as that they are, as Altars and Idol-ſervices were in <hi>Iudahs</hi> land, plagues and peſts there.</p>
+            <p n="4">4. This alſo, had the force of a reaſon mighty alone, to perſwade<pb n="6" facs="tcp:123420:5"/>with me to do as I did: That (1) All the evill of manners is char<g ref="char:EOLhyphen"/>ged upon them, whoſe converſation is before Angels and men, as becommeth the <hi>Goſpel</hi> they preach; and the <hi>Faith</hi> they profeſſe. (2) And all the evill Doctrines are charged upon them too, who (we may be perſwaded in our ſouls) rather then they would hold-forth a Doctrine contrary to the minde of God, would hold their faces under a Milſtone, there to be grovnd as corne in the Mill: Yet ſo and ſo they are charged. Theſe are the reaſons, which conſtrained me to write as I have done. If I had any aimes and ends of my owne, as poſſible I might have, the Lord ſhew them unto me, and ſanctifie the counſell of my friends touching that matter; and if not them, then a priſon: for truly I deſire to under-ſtand my way, and if contrary to the Good word of God, then to returne ſpeedily and take ſhame to my ſelfe, for my erring from the good way, and wandring in by-paths, to the diſturbing the peace of the Church, which ſhould be <hi>ſought</hi> for and <hi>perſued</hi> by all meanes, warranted in the good Word of God. And the Lord humble them, on what ſide ſoever, if they have perſued peace after a manner not comely for Chriſtans: If ſo (I have more then a jealouſie it is ſo) The Lord ſhew them it that they may be humbled for it, in deed and Truth. And now I feel my ſelf plucked by the eare, and charged with this <hi>Crime</hi> (ſo I call it, and accout of it) of Breaking the Churches peace, blowing the Coale of Contention, and ſo helping to kindle it to a greater flame. The leaſt ſuſpicion this way is grievous to me, but I am not ſuſpected only, ſo I am charged.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>. And ſo I come to the ſecond part of my Charge, which re<g ref="char:EOLhyphen"/>lates to my particular calling; offences taken againſt me in Reference thereunto are three. (1) <hi>That I abide not in the place God has ſet me, keeping my ſelfe to my proper worke there, while I meddle with matters without the verge of my Calling.</hi> And (2) <hi>with ſome loſſe or hinder rance to my progreſſe therein.</hi> And (3) <hi>in matters too high for me, above the Spheare of my Activity.</hi> I anſwere,</p>
+            <p>If my practiſe can be juſtly blamed here, then a double Blame be<g ref="char:EOLhyphen"/>longs to me, becauſe it is cleare againſt my <hi>judgement</hi> and the
+<hi>charge,</hi> I know, God has laid upon me. My <hi>judgement</hi> is, That a man out of his place, is like a bone out of joynt, he troubles the peace of the Civill Body, as that Bone does the peac and quiet of our Bodies. The
+<hi>Charge</hi> is, <hi>In the place wherein God has ſet him, there let him abide,</hi> doing his proper worke with all Diligence in all faithfulneſſe: for ſuch an one a man is, as he is in his Relations, As<pb n="7" facs="tcp:123420:5"/>he ſtands, there, in an Anſwerableneſſe to the ſeverall duties thereunto be<g ref="char:EOLhyphen"/>longing. And here I am compelled to ſpeak of my ſelfe, And yet not of my ſelf, for that were not comely; But of the Grace of God with me (but a common grace neither): By his Grace aſſiſting me I have kept my ſtand<g ref="char:EOLhyphen"/>ding. ſerved my Generation, done the workes proper to my calling in all ſincerity and faithfulneſſe, as knowing my ſelf called by God, and bound thereunto in my Obligations to man. And ſo I have theſe twenty yeers, and more (in much weakneſſe, yet according to the Abilities God ſup<g ref="char:EOLhyphen"/>plied me with) contended againſt the ſtream and ſtrongeſt-tide of evill
+<hi>Cuſtomes</hi> in the moſt ſchooles in point of <hi>Doctrine,</hi> and
+<hi>Diſcipline</hi> (for there is a little Church, or ſhould be ſo tendred and accounted of): And evill practiſes in the parents houſe, whence the Children come, too ordi<g ref="char:EOLhyphen"/>narily, with the <hi>Name of God</hi> in their mouthes, which they heard not of till they heard their parents ſweare by that
+<hi>Terrible Name.</hi> Ah Lord, But I have ſaid enough; for if that be all, which children, for the moſt part, learne at home, and bring to ſchoole with them (as ſure enough it is all, but not all the evill) Then Miniſters may teach from their Pulpits, and Maſters in their Schooles, till their tongues are ſpent, and ſpirits waſted, and do as little good, worke as little Reformation, as now is diſcerneable:
+<note place="margin">More of of this in my 5th Section.</note> For look about with all your eyes, and tell your ſelf, if you can, where can you ſee it? Though we have entred into Covenant with God touching that matter, yet certainly that we call <hi>Reformation,</hi> is like a
+<hi>Common-wealth</hi> we have only heard of or that <hi>placce,</hi> which is
+<hi>no where;</hi>
+               <note place="margin">
+                  <hi>Vtopia.</hi>
+               </note> and no where will it be found, till it be found in <hi>Families;</hi> We poor folke do talke of Refor<g ref="char:EOLhyphen"/>mation, and ſome faint <hi>velieties,</hi> wiſhings, and woulding, we have that way; We wiſh that the Church were Reformed, and the Kingdomes all three. Alas we do but mock our ſelves, for God is not mocked; Refor<g ref="char:EOLhyphen"/>mation cannot be, while Families are like the Sluggards field, quite
+<hi>neg<g ref="char:EOLhyphen"/>lected.</hi> There is the <hi>evill,</hi> the very head-ſpring thereof, <hi>Family-neglects;</hi> The unanſwerableneſſe to our Relations there in all the Duties, belong<g ref="char:EOLhyphen"/>ing thereunto. And this evill in
+<hi>Families,</hi> I have done my utmoſt to diſcover; And have, with enlarged affections to our proſperity there, un<g ref="char:EOLhyphen"/>folded the duties proper to the parents care there; and all to ſet that <hi>pri<g ref="char:EOLhyphen"/>vate houſe in order.</hi>
+               <note n="*" place="margin">In a book called, the <hi>childes Patri<g ref="char:EOLhyphen"/>monie.</hi>
+               </note> And this ſervice I have concluded to bee proper to my Station &amp; the greateſt piece of ſervice, I was poſſibly able to perform, whereby to ſerve <hi>this Generation,</hi> and that which is to come: For till this <hi>private-houſe</hi> bee better ordered there will be no good order neither in <hi>Schooles,</hi> not <hi>Colleges,</hi> nor
+<hi>Churches</hi> neither. Indeed the Maſters in their Aſſemblies, Colledges and Schooles, do ſtand but as Cy<g ref="char:EOLhyphen"/>phars there, without a figure put to them, If they ſtand alone, the parents or Governours of families not with them, joyning together in their watch<g ref="char:EOLhyphen"/>full care, and contributing their double diligence; which parents will ne<g ref="char:EOLhyphen"/>ver<pb n="8" facs="tcp:123420:6"/>do till they be told their duty better from the pulpits: Nor told-onely, but till the
+<hi>Magiſtrates</hi> and <hi>Miniſters</hi> both, go together hand in hand,
+<hi>preſcribing orders</hi> to families, their <hi>due obſervation</hi> of them according to the <hi>Minde</hi> and <hi>Word</hi> of God. And here, if the command and charge of God might prevaile with the Miniſters of the
+<hi>Law</hi> and <hi>Goſpel,</hi> I mean Ci<g ref="char:EOLhyphen"/>vill and Eccleſiaſticall, To do their Duty in viſiting <hi>Families</hi> and <hi>Schooles,</hi> I would direct their courſe unto Mr. <hi>Grantham,</hi> to viſit his Family, and ſcoole in the firſt place, after him, whom elſe they pleaſe. The Miniſters may enquire there, how things are, whether as <hi>Fame</hi> reports them, and as the cry is gone-up againſt him in this City. Enquire they may, What manner of ſervant he is to God, and himſelf; And what manner of Ma<g ref="char:EOLhyphen"/>ſter he is to thoſe intruſted to his charge? And how Anſwerable he is to that great <hi>Truſt,</hi> (the charge of <hi>Bodies</hi> and
+<hi>Soules</hi> too:) and his un<g ref="char:EOLhyphen"/>dertakings touching that matter; I mean, how reſponſable he has been, in <hi>deed</hi> to parents, when they have come to him, and ſpoken in the <hi>old Fa<g ref="char:EOLhyphen"/>thers</hi> language, <hi>Redde Depoſitum?</hi>
+               <q rend="inline margQuotes">I have intruſted my childe, my earth<g ref="char:EOLhyphen"/>ly Treaſure into your hands, I have <hi>depoſited</hi> him there, come give an account of your <hi>Truſt</hi> and mine, what has been your
+<hi>care</hi> over him? What <hi>cure</hi> have you wrought upon him? What courſe have you taken with him, whereby, through Gods bleſſing, you might make him <hi>obe<g ref="char:EOLhyphen"/>dient both in word</hi> and deed;</q> a bleſſing to his parents, and to his Gene<g ref="char:EOLhyphen"/>ration? Let this be enquired into there, and every where, as we tender the Glory of God, and the accompliſhment of the parents
+<hi>Hope;</hi> who has nothing but <hi>Hope</hi>-to bear-up their Spirits in their ſore travell under the Sun, <hi>Hope</hi> that their children ſhall be, by the Maſters care, made obe<g ref="char:EOLhyphen"/>dient to God, and their parents, able to ſerve their parents, and them<g ref="char:EOLhyphen"/>ſelves, and their Generaton as the
+<hi>Law</hi> of God, and <hi>Nature</hi> commands. O that parents could conſider this; and as their hopes are, to do thereafter in an orderly purſuance of their hope, by diſcharging their owne Truſt firſt; And then inquiring well into their converſation, into whoſe hands they will tranſmit their children, thoſe deareſt pledges, I returne to that I was ſaying; That maſters of Families, (Schooles, are but families mul<g ref="char:EOLhyphen"/>tiplied, made like a flock of ſheepe) muſt be content to be taught here, and preſcribed how they may ſhew themſelves conſcientious at this point, whereof they that make no conſcience, ſurely, they have no con<g ref="char:EOLhyphen"/>ſcience at all: And the Magiſtrate has to do with ſuch, with them and their families. And when we begin there, in <hi>Families,</hi> to Reforme there, Then I ſhall beleeve that Reformation begins, and never till then: For this is the Apoſtles <hi>Method,</hi> not according to the <hi>Courſe of this world:</hi> But according to the <hi>courſe,</hi> the people of God, have taken, who have ſo ordered their Families, and ſo walked in the midſt of their houſes, that their <hi>praiſe is in</hi> the <hi>Goſpel:</hi> And this is according to the Scriptures of God,<pb n="9" facs="tcp:123420:6"/>They
+<hi>overſee</hi> themſelves firſt, then theirs;
+<note n="*" place="margin">Act. 20.28.</note> Firſt, their flock within dores; then the flocke without;
+<note n="*" place="margin">Tim. 4.3.</note> Firſt, their <hi>owne houſe,</hi> then the <hi>Houſe of God.</hi>
+               <note n="*" place="margin">Tit. 2 7</note> There is the Apoſtles Method, which by Gods hand with me I have beaten-forth through all the
+<hi>obſervations</hi> and <hi>experiences,</hi> by His aſſiſtance I had made, and have deſired to make them ſo legible, that he who runs may read them. What acceptance my labour has from Man, I ſay not, for little I can ſay; but my <hi>labour</hi>
+               <note n="*" place="margin">2 Cor. 5.9.</note> is, I hope to be
+<hi>accepted of the Lord,</hi> with whom my worke is, and judgement from his Mouth; That I ſtand with my loins ready girt to be called forth <hi>to his foote,</hi> content to bee <hi>ſomething</hi> or <hi>nothing,</hi> or any
+<hi>thing,</hi> ſo I might attain the <hi>end</hi> of my placing in the world, the Glorifying God, and ſerving my Generation. And truly, God hath given me a Body, healthfull, and able to do him ſervice, above many thouſands. I ſcarce remember, that pain in my fleſh held my eyes waking one night; or made me keepe my bed one day in all my life hitherto. And this I looked upon, this <hi>health of body,</hi> of <hi>minde</hi> too, as a great mercy, and a mighty ingagement, to binde me over to duty. This Mercy has followed me all my dayes, evento the declining of my day; and ſo Mercy hath followed Mercy, which convinced me what my duty was, and ingagement is,
+<hi>That duty muſt follow duty,</hi> elſe a double woe may overtake me. And ſurely I may ſay this more, that I feared alwaies ſince I had any underſtanding of my way and Duty, to walke my owne way, or to take my owne courſe; What ſeemed good in mine owne eyes. I ſay the truth, I yeelded-up my ſelfe to Gods hand; as he would be pleaſed to goe before me, though his footſteps were as in great waters, that way, by His Grace, I would go. I was long ſince convinced, how vaine my thoughts were, (and yet thouſands do thinke as once I did) That I could mould forth my own <hi>trade</hi> of life, track-out a courſe plea<g ref="char:EOLhyphen"/>ſing enough to God; and moſt uſefull to my ſelfe (for ſelf was my end; and high thoughts I had God knowes, That I was
+<hi>ſome-body</hi> as well as others, and could) beate-out my owne
+<hi>Way,</hi> cut-out and order my own <hi>Worke,</hi> and then ſet about it in my owne ſtrength, Theſe thoughts be<g ref="char:EOLhyphen"/>fooled me many a time; and now-mine eyes are to the Lord, as the <hi>Pilats</hi> eye to the ſtar; let Him direct my couſe, for He alone can do it; cut-out, and direct my worke, for that is His Worke too; My worke is no worke but <hi>Duty,</hi> To eye, what He directs, and to follow Him; To hearken what he will have done, and to do it with all my might. And ſurely from His Hand it was. That I found a diverſion of my ſtudies, to<g ref="char:EOLhyphen"/>wards ſome other matters, ſomewhat without the verge of my calling.</p>
+            <p>But yet (2) which is my anſwer to the ſecond exception: I took ſuch houres for thoſe matters, which ſleep might have robbed me of; with no hinderance at all to my proper imployment; for, truly ſuch ſtudies do enlive and quicken my phanſie, whereas <hi>ſemper eadem iisdem,</hi> ſtill the ſame<pb n="10" facs="tcp:123420:7"/>every day is a dulling thereunto.</p>
+            <p n="3">And (3) I do not conceive, I have ſhowed my ſelf a Buſie-body, med<g ref="char:EOLhyphen"/>ling with matters too high for me; but ſuch as, through Gods grace, my underſtanding could very eaſily reach unto.</p>
+            <p>
+               <note place="margin">III.</note> And ſo I come to the third particular in my charge; <hi>The offence I have taken</hi> at <hi>Mr.</hi> Edwards <hi>his Book, and have given to the Church of God,</hi> as one,
+<hi>that has an hand in the breaking her peace, which rather then good men would do, they would ſuffer their bones to be broken all to pieces.</hi> This is part of my charge; Let it now be weighed with both hands, and this conſi<g ref="char:EOLhyphen"/>dered with all the heart. (1) This which is legible, for he that runs may read it; That brethren have troubled the Churches peace, and have bro<g ref="char:EOLhyphen"/>ken the rule of charity, all throughout their writings; We may ſay of ſome of them, as <hi>Cicero</hi> ſpeaks of ſome Orators in his time, <hi>Latrant Ora<g ref="char:EOLhyphen"/>tores non loquuntur:</hi> Or, as <hi>Calvin</hi> ſpeaks of a rough-mouthed fellow; <hi>Stridet non loquitur,</hi> I will not Engliſh it; as one ſayes in another caſe, we, common people, <hi>underſtand theſe matters too well;</hi>
+               <note place="margin">Nimium eſt quod intelligi<g ref="char:EOLhyphen"/>tur. Quint.</note> They are ſo legible. (2) And this which is viſible too, and in every mans eye, That the ſonnes of the Church, have ſhewn themſelves the
+<hi>ſonnes</hi> of the <hi>Cole,</hi> they have blown a ſpark ſo long, that it is become a <hi>cole;</hi> And now they have blown up the cole to a flame: And from ſo ſmall a matter, how great a fire is kindled? Let it be conſidered, who has been blowing here? And when the fire was kindling, who has brought fuell, as oyle to the fire: or buc<g ref="char:EOLhyphen"/>kets of water to quench it? If no man elſe will, I will ſpeak for my ſelf, That I thought it a matter greatly conducing to the peace of the Church, to <hi>marke</hi> thoſe, and their writings, which have troubled the peace there<g ref="char:EOLhyphen"/>of: And here I noted Mr.
+<hi>Edwards</hi> Book, and one or two more, more unreaſonable, for more may be, and uncharitable, than is that Anti-Apo<g ref="char:EOLhyphen"/>logie: yet ſo croſſe is his manner of proceeding there, to the <hi>Dictates</hi> of right reaſon, and
+<hi>method of charity</hi> all along, that he may follow peace and purſue it in that way, pleaſing in his own eyes; but he ſhall never under<g ref="char:EOLhyphen"/>take it while the world ſtands. It is my judgement indeed upon ſuch pro<g ref="char:EOLhyphen"/>ceedings; And I ſhall be of the ſame judgement till I die: And then alſo I ſhall not retract it, or repent of what I have done, touching that matter; And this I have fully declared, and faithfully; But the half of my papers are reſtrained. I may ſet them at liberty in due time: for what ever the Cenſure is againſt thoſe papers, yet the truth is, they ſerve to declare the truth, and to maintain peace, as may appear in due time. But I was ſay<g ref="char:EOLhyphen"/>ing, that ſurely theſe men muſt repent of their doings, <hi>loath themſelves,</hi> for the actings of their own ſpirit, before their
+<hi>labour</hi>
+               <note place="margin">2 Cor. 5 9 <hi>Philoti<g ref="char:EOLhyphen"/>moume<g ref="char:EOLhyphen"/>tha.</hi>
+               </note> (if they feel the weight of that word in the Apoſtles ſence) can be
+<hi>accepted with the Lord,</hi> and with His people. So I have ſaid, and I do not doubt but thouſands, of a more refined judgement than my ſelf, will ſay the ſame with are: But<pb n="11" facs="tcp:123420:7"/>therefore am <hi>I</hi> charged (Ile let petty charges go) that (1) <hi>I hold for a tel<g ref="char:EOLhyphen"/>leration of all Religions.</hi> (2) And <hi>with th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that hold for an univerſall li<g ref="char:EOLhyphen"/>bertie of conſcience,</hi> (3)
+<hi>That I ſpeak evill of dignities,</hi> ſet my ſelf as they do, who now call themſelves Independents, but are not (unleſſe neither to fear God nor reverence Man bee to bee Independent) againſt the powers which are of God, <hi>Parliaments,</hi> Councels, Synods. To the firſt, I have ſpoken, to the ſecond I ſhall ſpeak here; (2) <hi>That I hold with</hi> thoſe; who <hi>think they may hold to what opinion they will,</hi> live <hi>as they pleaſe; do what ſeems good in their own eyes;</hi> It is <hi>their</hi> conſcience ſo to do, the <hi>doings</hi> and <hi>actings thereof;</hi> And the Magiſtrate hath nothing to do there; And this is my opinion alſo, I hold for <hi>univerſall liberty of conſcience:</hi> I an<g ref="char:EOLhyphen"/>ſwer, no, but I do not; The Lord knowes, I abhorre that opinion, As it is commonly underſtood, conſtrued, preſſed, <hi>forced,</hi> I abhorre it as a
+<hi>bloudy Tenet</hi> indeed, and the moſt deſtructive to Church and State, that poſſibly <hi>Satan</hi> could have ſuggeſted: or Satans Adverſaries, the <hi>godly,</hi> could have forced againſt their friends, the children and ſervants of the High God; which is, that we <hi>may walk every man his</hi> own <hi>way, pleaſing in his own eye,</hi> live as <hi>we liſt, ſtand up</hi> againſt <hi>the Law,</hi> and
+<hi>Goſpell-priviledge,</hi> Infants <hi>birth-right;</hi> ſtand up againſt the Lords day too, deny the due ſanctifica<g ref="char:EOLhyphen"/>tion thereof; yet the Magiſtrate hath nothing to do with us, for it is our <hi>conſcience</hi> ſo to do, and our judgement. Oh abhominable! Conſcience! ſay we, It is our <hi>famie,</hi> a meer <hi>conceit</hi> ſute; what ever it is, it is not
+<hi>con<g ref="char:EOLhyphen"/>ſcience</hi> for they that hold to that opinion, have n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſcience at all. And it will appear that conſcience they have none, by ſome <hi>eminent</hi> acti<g ref="char:EOLhyphen"/>ons, flowing from that licentious conſcience, whereby the way of God is blaſphemed, and others <hi>enticed</hi> to ſeatter <hi>their wayes;</hi> and to walk in by<g ref="char:EOLhyphen"/>paths, where the Magiſtrate ought to meet with them, and oppoſe them, while they hold their foot in their <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> way,</hi> of <hi>ſinne</hi> and <hi>Death;</hi> There the Magiſtrate has to do with them, in wayes apparently evill, and muſt pu<g ref="char:EOLhyphen"/>niſh them before the Sun. Indeed the Magiſtrate has no power over the
+<hi>conſcience;</hi> I think no ſober man ever ſaid, That Man has power there; It is an inward thing, and an inviſible Hand it is, That can reach unto it, and perſwades there. But when the evill effects of this
+<hi>licentious conſcience</hi> do appear, then Muſt the Magiſtrate appear againſt it and them. And that is all I will ſay, concerning my cleering touching that matter.</p>
+            <p>The third particular of the Charge; It is againſt thoſe, who ſtanding ſingle, and alone, are worth ten thouſand of my ſelf. And indeed an hea<g ref="char:EOLhyphen"/>vie charge it is; But it is but a mans charge; he (I will ſpeak of him ſin<g ref="char:EOLhyphen"/>gle, though he is plurall) hath charged his brethren very heavily, though with weight of words onely, Hard and devouring; he hath ſpoken much and proved nothing at all, nothing by all his <hi>Allegations</hi> and
+<hi>Quotations.</hi> Notwithſtanding, that which he hath ſuffered from the hand of the wic<g ref="char:EOLhyphen"/>ked;<pb n="12" facs="tcp:123420:8"/>and the honourable eſteem he hath in the hearts of the Godly, ſhall <hi>compound</hi> for all his hard words againſt his brethren. But truly, how he will compound this Matter with his God, is a queſtion to me, Now I do remember, and he will remember it alſo,
+<note place="margin">Numb 20.8.</note> That a better man than he, MOSES, having offended but once in the like manner, could not
+<hi>com<g ref="char:EOLhyphen"/>pound</hi> with his God, touching that matter;
+<note place="margin">verſ 10.</note> Thus we reade; God ſpake unto MOSES ſaying,
+<note place="margin">verſ 12.</note> 
+               <hi>ſpeak unto the rock;</hi> MOSES did contrary, he ſpake unto the people, and ſmote them with his tongue, <hi>ye Rebels,</hi> ſaid he, In<g ref="char:EOLhyphen"/>deed ſuch they were;
+<note place="margin">Pſal. 106.32.</note> but MOSES had no warrant to call them ſo, not to ſpeak, <hi>ſo unadviſedly with his lips.</hi> But ſo he did ſpeak, and God was angry with him; And O how fain
+<hi>Moſes</hi> would have compounded the buſineſſe; but he could not compound with God; his Lord and Maſter would not be intreated, no not by that moſt faithfull ſervant <hi>Moſes;</hi> be<g ref="char:EOLhyphen"/>cauſe he ſpake unto the People, ſaying, <hi>ye Rebels;</hi> That was all, and a Truth it was; yet an
+<hi>unadviſed ſpeaking</hi> with <hi>his Lips,</hi> and he could not
+<hi>compound</hi> for it. It commands our <hi>marke,</hi> and ſaddeſt thoughts upon it; And then it will be matter of ſo trow to us, who have ſpoken ſo <hi>unadviſed<g ref="char:EOLhyphen"/>ly,</hi> once and again calling them
+<hi>Rebels,</hi> who are not ſo; and <hi>Preſumptu<g ref="char:EOLhyphen"/>ous ſinners</hi> before the Lord, Whoſe daily Prayer is (as in charity we are bound to think)
+<hi>Keep thy ſervant Lord from Preſumptuous ſinnes: Let not thoſe have dominion over me:</hi> Surely the thoughts of <hi>Moſes</hi> ſtory, his go<g ref="char:EOLhyphen"/>ing-croſſe to the command of God, will make our hearts ſorrowfull, be<g ref="char:EOLhyphen"/>cauſe we have charged our Brethren, So and ſo, <hi>ye Rebeli;</hi> and ye teach others to be <hi>Preſumptuous ſinners</hi> before the Lord. A grievous Charge; but matter of great <hi>comfort</hi> it is to all, that are ſo charged, but are the faithfull of the Lord, and do <hi>abhorre evill,</hi> all that which is <hi>preſumed</hi> a<g ref="char:EOLhyphen"/>gainſt them, matter of great comfort unto theſe: For ſo were all the faith<g ref="char:EOLhyphen"/>full of the world charged before them, That they were <hi>troublers,</hi> meant to Rebell, chief enemies againſt Kings, and their Kingdomes; ſo the beſt men in the world, have been charged by the worſt men of the World: Yea their LORD and Maſter Himſelfe, He was ſo charged, That He was an enemie to the Powers, which were of God:
+<note place="margin">Luk. 23 23.</note> And the more blameleſſe He was found to be, the more * <hi>fierce</hi> the chief Prieſts were againſt Him, and the more <hi>vehemently they accuſed</hi> * Him, till they prevailed with <hi>Pi<g ref="char:EOLhyphen"/>late</hi> ſo as he <hi>delivered Ieſus,</hi> not to the juſtice of the Law, but <hi>to their</hi> * <hi>will,</hi> the injuſtice thereof, to do unto him as they pleaſed. If they have dealt ſo with the <hi>Maſter of the Houſe,</hi> how much more with thoſe of His Houſhold? But let not the <hi>diſciples</hi> of the Lord Chriſt, bend themſelves againſt diſciples, their deareſt friends, Rather let them do, as is comely for the ſervants of the high God, <hi>live</hi> together,
+<hi>love</hi> together, and <hi>build</hi> toge<g ref="char:EOLhyphen"/>ther, the Houſe and Houſhold of God. Let there be no falling out between Brethren, ſpecially now, when the Argument whereby to argue the caſe,<pb n="13" facs="tcp:123420:8"/>and to command agreement amongſt brethren, is as ſtrong now as it was in
+<hi>Abrahams</hi> dayes, for worſe then <hi>Perezites</hi> and
+<hi>Cananties</hi> are in our land, who glory in this our ſhame. But
+<hi>al<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> toutoon,</hi> I proceed to the laſt perticular.</p>
+            <p n="4">IIII. My defence of the Apologeticall Narration, and the offence I have given to the Godly party thereby. I anſwere. I cannot conceive how this can be: for there are but two exceptions, which I could ever heare made by diſcreet men, (to whom my eares ſtand very open) againſt that Apology.</p>
+            <p n="1">1. <hi>That never any wiſe men before them did ſo commend themſelves as they did.</hi> I Anſwer, Yes, one of the wiſeſt men, that ever was in the world commended himſelfe, I thinke, as much as they do: So much that he called himſelfe foole, for commending himſelfe ſo much, <hi>I am become a fool in glorying, ye have compelled me,</hi> Sayes
+<hi>Paule,</hi>
+               <note place="margin">2 Cor. 11 2 Cor 12</note> 
+               <hi>ye who ought to have com<g ref="char:EOLhyphen"/>mended me.</hi> And ſo, for ought I know, might theſe Brethren ſay too, I could ſay more to this, but I am ſtraitned, ſure I am, I muſt not be too cu<g ref="char:EOLhyphen"/>rious in other mens ſayings, or doings: I am bound alſo to be as ten<g ref="char:EOLhyphen"/>der in my cenſure thereof, as I am about the apple of mine eye. Again, Admit the Brethren were too high in their owne praiſes; can this warrant the Dr. and his ſecond to preſſe them downe as low as the earth, with cart-loades of diſgraces? Surely, it ought not ſo to bee. Jt had not ſounded well from the falſe Apoſtles mouthes, if hearing, as hap<g ref="char:EOLhyphen"/>ly they did, <hi>Paul</hi> commending himſelfe, they ſhould have ſaid to him in theſe words;
+<q rend="inline margQuotes">
+                  <hi>Paul</hi> Remember your ſelf, and what you were, now your mouth is ſo full of your own praiſes, you were a Perſecutor, and being <hi>mad with rage, you breathed out threatnings</hi> againſt the Lord, and, His Holy ones.</q> This had not touched well upon our ears from ſuch mens mouthes: Much leſſe pleaſing is the language we hear from Bre<g ref="char:EOLhyphen"/>thren. But I will take off my thoughts from this, and proceed to the other exception. (2) That <hi>they plead for a Toleration.</hi> It is granted, they do. They plead with their Brethren to <hi>bear,</hi> To
+<hi>tolerate</hi> them, ſuffer them to dwell in the land of their Nativity; They will live as Brethren, converſe before them, and all the world, as becommeth the Goſpell; They will joyn heads, and hearts, and hands, and all to build with them the Houſe and houſhold of God: Only they entreat their Brethren to <hi>Tolerate</hi> them, to <hi>bear</hi> with them, ſuffer them to live ſecurely by them. This is their plea for a <hi>Tolera<g ref="char:EOLhyphen"/>tion.</hi> A ſober man ſhould not dare to carry this word any further; If he will ſo do, he will force it, give the ſence of it moſt contrary to their mea<g ref="char:EOLhyphen"/>ning, as commonly the men of the world do; That they plead for a <hi>Tole<g ref="char:EOLhyphen"/>ration of all Religions:</hi> and for an <hi>univerſall Liberty of Conſcience;</hi> That a man may hold faſt to what opinion he pleaſeth, he may teach others ſo, ma<g ref="char:EOLunhyphen"/>king many Diſciples (that is) he may take a ready to way ſear-up his Con<g ref="char:EOLhyphen"/>ſcience,<pb n="14" facs="tcp:123420:9"/>and to deſtroy his own ſoul; And yet, ſith it is his conſcience ſo to do, what have the Miniſters of the Law and Goſpell, Civill or Eccleſiaſti<g ref="char:EOLhyphen"/>call to do with him? What a
+<hi>forced</hi> conſtruction is this! <hi>Credat Iudaeus Apella, non ego,</hi> let who will, I cannot beleeve, That they have ſpoken, or done like Brethren, who have rendred that Word, <hi>Toleration ſo,</hi> ſo croſſe to the mindes of our deareſt Brethren. I take not upon me here to diſpute how juſt this our Brethrens Plea is, for a <hi>Toleration:</hi> For it is not the que<g ref="char:EOLhyphen"/>ſtion; Nor do we queſtion whether the Dr. with his Brother, have not <hi>forced</hi> the word beyond all <hi>Reaſon,</hi> and <hi>Humane underſtanding,</hi> loading it with ſuch diſgraces, and Reproaches, which were not <hi>Tolerable,</hi> not poſ<g ref="char:EOLhyphen"/>ſible to be indured, but by ſuch men, who are ſo loaden, innocent men, God knowes; Who ſtand, notwithſtanding all thoſe Reproaches, <hi>Recti in curia,</hi> upright under the Burthens, and like <hi>Elephants</hi> in this reſpect, the more upright, the more preſſed; Becauſe cleerd, touching that matter, in the Court of Heaven, and their own conſciences; we can make no que<g ref="char:EOLhyphen"/>ſtion of all this:</p>
+            <p>But the quſtion is;
+<q rend="inline margQuotes">Whether the Dr. and his Second have broken the peace of this Church in <hi>forcing</hi> matters ſo, or I my ſelfe in clearing them as I could?</q> Let the ſober Reader judge by what has been ſaid; And if he judge me to be a diſturber of the Churches peace, let him joyne hands with whomſoever he can finde an adverſary to me, and bring with him the hand of Authority, they ſhall finde me ready girt to obey: I thanke God I can ſay touching this mater, <hi>I feare God,</hi> I feare not the face of man. The Lord knowes, and man knowes alſo, That I have laid out my ſelfe, the <hi>male of my flock, the firſt borne</hi> of my ſtrength, all I am, and have to maintain the power of the Church, and to promote this
+<hi>cauſe,</hi> becauſe it is the peace of God, &amp; Gods cauſe, &amp; it ſhall proſper though the Gates of Hell are wide-open againſt it, the rage of divels, and men, their <hi>Force</hi> and their <hi>Fraud:</hi> yet it muſt Proſper: Nay, though Heaven ſometimes ſeeme to be aginſt this cauſe too, <hi>Turning back the weapons, with which we fight againſt Babylon,</hi> as Gods manner is to do (till His children and ſervants ceaſe to fight againſt Him,) yet the way of God ſhall be Beaten forth: yet the cauſe ſhall proſper as ſure as God lives and loveth his peo<g ref="char:EOLhyphen"/>ple. Now bleſſed be God the Father of our Lord Jeſus Chriſt, who has aſ<g ref="char:EOLhyphen"/>ſured His Servants, that the way of his worſhip ſhall be made more con<g ref="char:EOLhyphen"/>ſpicuouſly manifeſt, the more it is trampled upon by the foot of pride: And His cauſe and church victory, in and over the world, ſhall be the more Glorious, at Laſt, the more it is oppoſed, and perſecuted now by the Divels in Hell, and <hi>thoſe incarnate,</hi> with fleſh and blood, his Angels and ſervants on earth: Now bleſſed be God the Father of our Lord Jeſus Chriſt, who has aſſured His poore ſevants, waiting their Lords time, and Doing their Lords Worke. That He will give them an expected end.</p>
+            <trailer>An ende.</trailer>
+            <pb facs="tcp:123420:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
